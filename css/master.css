@@ -26,3 +26,46 @@ header {
 h1{
     display: inline-block;
 }
+
+/*MAIN*/
+main{
+    width: 70%;
+    height: 500px;
+    margin: 50px auto;
+    border-radius: 10px;
+    background-color: white;
+
+}
+/*first-section*/
+#nav{
+    padding-bottom: 10px;
+    border-bottom: 3px solid #f6f8f9;
+}
+
+#botton-left{
+    display: inline-block;
+    height: 30px;
+    width: 85px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 7px;
+    color: white;
+    background-color: #47adf1 ;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#botton-right{
+    display: inline-block;
+    height: 30px;
+    width: 95px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 7px;
+    color: #c5cbd0;
+    border: 1px solid #c5cbd0;
+    margin-top: 20px;
+}
+

@@ -95,6 +95,11 @@ ul{
     padding: 1px;
 }
 
+.delede{
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
 .folders{
     display: inline-block;
     height: 23px;

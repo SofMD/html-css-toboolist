@@ -32,7 +32,7 @@ h1{
 /*MAIN*/
 main{
     width: 70%;
-    height: 500px;
+    height: auto;
     margin: 50px auto;
     border-radius: 10px;
     background-color: white;
@@ -71,7 +71,7 @@ main{
     margin-top: 20px;
 }
 
-/**contained*/
+/*lista*/
 ul{
     list-style-type: none;
     margin: 0px 50px;
@@ -90,14 +90,16 @@ ul{
 
 .check{
     margin-left: 10px;
-    border: 1px solid black;
+    border: 1px solid green;
     border-radius: 50%;
     padding: 1px;
+    color: green;
 }
 
 .delede{
     margin-left: 10px;
-    border: 1px solid black;
+    border: 1px solid red;
+    color: red;
     border-radius: 50%;
 }
 .folders{
@@ -109,5 +111,28 @@ ul{
     line-height: 23px;
     border-radius: 11px;
     color: white;
+}
+/*colors*/
+.blu{
     background-color: #45abea;
+}
+
+.viola{
+    background-color:#9c72e4 ;
+}
+
+.acq{
+    background-color: #64c0a9;
+}
+
+.arancio{
+    background-color: #f29e33;
+}
+
+.rosa{
+    background-position-x:#d863a1 ;
+}
+
+.verde{
+    background-color: #b0c926;
 }
